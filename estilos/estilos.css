@@ -1,0 +1,52 @@
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #fff;
+
+}
+
+header{
+	background:#252932;
+	
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 20px;
+
+}
+header.logo{
+	color: #f2f2f2;
+	font-size: 50px;
+	line-height: 200px;
+	float: left;
+}
+.margen{
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+header  .logo{
+	color: #f2f2f2;
+	font-size: 65px;
+	line-height: 200px;
+	float: left;
+}
+
+ nav{
+	
+	line-height: 50px;
+	background-color: #ccc;
+}
+ nav a{
+	display: inline-block;
+	color: orange;
+	text-decoration: none;
+	padding: 10px 65px;
+	line-height: normal;
+	font-size: 15px;
+	font-weight: bold;
+}
